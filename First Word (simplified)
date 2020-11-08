@@ -13,6 +13,7 @@ Example:
 firstWord("Hello world") == "Hello"
 
 Solution:
+
 function firstWord(text: string): string {
 return text.split(' ')[0];
 }
