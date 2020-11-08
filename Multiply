@@ -11,6 +11,8 @@ multTwo(2, 3) == 6
 multTwo(1, 0) == 0
 
 
+Solution:
+
 function multTwo(a, b) {
     return a*b;
 }
